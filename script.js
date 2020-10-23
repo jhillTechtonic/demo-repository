@@ -1,2 +1,1 @@
-const num = Math.floor(Math.random() * 10) + 1;
-document.getElementById("demo").innerHTML = num;
+document.getElementById("demo").innerHTML = Math.floor(Math.random() *10) + 1;
